@@ -3,12 +3,13 @@
 
   <br><br>
 <h2> 🛠 Tech Stack 🛠 </h2><br>
-  <h3>Backend</h3>
+<h3>Backend</h3><br>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
-  <img alt="JSP" src ="https://img.shields.io/badge/JSP-007396.svg?&style=flat&logo=JSP&logoColor=white"/>
+
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white"/>
 <img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=flat&logo=JSON&logoColor=white"/>
-
+  <br><br>
+<h3>Frontend</h3><br>
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
