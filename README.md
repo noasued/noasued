@@ -1,7 +1,6 @@
+
 <div align="center">
 
-  
- 
   <br><br>
 <h2> 🛠 Teck Stack 🛠 </h2><br>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
