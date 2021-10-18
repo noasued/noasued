@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**noasued/noasued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ 
+  <br><br>
+<h2> 🛠 Teck Stack 🛠 </h2><br>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white"/>
+<img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=flat&logo=JSON&logoColor=white"/>
 
-Here are some ideas to get you started:
+<img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
+  <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
+<br><br>
+  <h2>🌳 Contact to Noa 🌳</h2>
+  <img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
+  <br>
+  </div>
+  <br><br>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noasued&count_private=true&include_all_commits=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noasued&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
