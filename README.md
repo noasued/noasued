@@ -13,7 +13,7 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
   <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
 <br><br>
-  <h2>🌳 Contact to Noa 🌳</h2>
+  <h2>🌳 Contact Noa 🌳</h2>
   <img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
   <br>
   </div>
