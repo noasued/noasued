@@ -21,9 +21,7 @@
 <br><br>
 <h2>🌳 Contact Noa 🌳</h2>
 <img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
-<br>
-<a href="https://www.linkedin.com/in/noa-nam-003123112/" target="_blank"><img alt="NoaNam" src ="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat&logo=LinkedIn&logoColor=white"/></a>
-<br>
+
 </div>
 <br><br>
 <hr>
