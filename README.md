@@ -15,6 +15,10 @@
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
 <br><br>
+<h2> 🙆🏻 Language Skills 🧑🏻‍💻 </h2>
+🔠English<br>
+🉑Chinese(Mandarin)
+<br><br>
 <h2>🌳 Contact Noa 🌳</h2>
 <img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
 <br>
