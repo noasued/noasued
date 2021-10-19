@@ -15,11 +15,19 @@
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
 <br><br>
-  <h2>🌳 Contact Noa 🌳</h2>
-  <img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
-  <br>
-  </div>
-  <br><br>
+<h2>🌳 Contact Noa 🌳</h2>
+<img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
+<br>
+<a href="https://www.linkedin.com/in/noa-nam-003123112/" target="_blank">
+<img alt="NoaNam" src ="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat&logo=LinkedIn&logoColor=white"/>
+  </a>
+
+
+
+<br>
+</div>
+<br><br>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noasued&count_private=true&include_all_commits=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noasued&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noasued&count_private=true&include_all_commits=true&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noasued&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
