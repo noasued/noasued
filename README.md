@@ -5,7 +5,7 @@
 <h2> 🛠 Tech Stack 🛠 </h2><br>
 <h3>Backend</h3><br>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
-
+<img alt="JSP" src ="https://img.shields.io/badge/JSP-F86001.svg?&style=flat&logo=Java&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white"/>
 <img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=flat&logo=JSON&logoColor=white"/>
   <br><br>
