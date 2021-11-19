@@ -20,7 +20,7 @@
 🉑Chinese(普通話)
 <br><br>
 <h2>🌳 Contact Noa 🌳</h2>
-<img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:noasueden@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
 <br><br>
