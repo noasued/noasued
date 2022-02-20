@@ -1,9 +1,5 @@
 
 <div align="center">
-  <h4>
-    <a href="https://noa-archive.notion.site/Noa-Hye-rim-Nam-4178081ea5764de1825251d84a99d5a5">📑If you want to read my CV on Notion, click hear!📌</a>
-  </h4>
-  <hr/><br/>
 <h2> 🛠 Tech Stack 🛠 </h2>
 <h3>Backend</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
