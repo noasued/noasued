@@ -21,7 +21,7 @@
 🉑Chinese(普通話)
 <br>
 <h2>🌳 Contact Noa 🌳</h2>
-<a href="mailto:noasueden@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:nnoadev@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/noasueden@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
 
 <br>
 <h2>🤝 Team Projects 🤝</h2>
