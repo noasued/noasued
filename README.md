@@ -22,7 +22,7 @@
 🉑Chinese(普通話)
 <br>
 <h2>🌳 Contact Noa 🌳</h2>
-<a href="mailto:nnoadev@gmail.com"><img src="[https://img.shields.io/badge/Ajax-0094F5](https://img.shields.io/badge/nnoadev@gmail.com-EA4335)?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:nnoadev@gmail.com"><img src="https://img.shields.io/badge/nnoadev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br>
 <h2>🤝 What I Did 🤝</h2>
