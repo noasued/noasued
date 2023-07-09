@@ -25,10 +25,10 @@
 
 <br>
 <h2>🤝 Team Projects 🤝</h2>
-<ul>2021
-<li><a href="https://github.com/noasued/URAVEL">🧳 URAVEL : 서울시 여행지 추천 웹사이트</a></li>
-<li><a href="https://github.com/noasued/EatDa">😋 EatDa : 간단 레시피 추천 웹사이트</a></li>
-</ul>
+<h3>2021</h3>
+<a href="https://github.com/noasued/URAVEL">🧳 URAVEL : 서울시 여행지 추천 웹사이트</a><br/>
+<a href="https://github.com/noasued/EatDa">😋 EatDa : 간단 레시피 추천 웹사이트</a>
+
 </div>
 <br>
 <hr>
