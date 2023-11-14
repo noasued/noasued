@@ -27,8 +27,9 @@
 <br>
 <h2>🤝 What I Did 🤝</h2>
 <h3>2023</h3>
-공공기관 RPMS 시스템 구축 (2022 ~ As a team member)<br/>
-- DB Migration from ORACLE to PostgreSQL
+공공기관 RPMS 시스템 구축<br/>
+- 2022.05 ~ 2023.05 : 모 기관 연구과제관리시스템 구축(As a team member), DB Migration from ORACLE to PostgreSQL
+- 2023.06 ~ 2023.11 : 모 기관 연구과제관리시스템 구축(As a project leader)
 <h3>2021</h3>
 <a href="https://github.com/noasued/URAVEL">🧳 URAVEL : 서울시 여행지 추천 웹사이트</a><br/>
 <a href="https://github.com/noasued/EatDa">😋 EatDa : 간단 레시피 추천 웹사이트</a>
