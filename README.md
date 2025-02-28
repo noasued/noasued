@@ -52,7 +52,7 @@
                            DB Migration from ORACLE to PostgreSQL<br/>
 - 2023.06 ~ 2023.11 : 모 기관 연구과제관리시스템 구축(As a project leader)<br/>
 <h3>2022</h3>
-입사 후 육 받기<br/>
+입사 후 교육 받기<br/>
 - 2022.02 ~ 2022.04 : 첫 회사 입사 후 교육 받으며 여러 프로젝트에 깍두기 참여<br/>
 공공기관 RPMS 시스템 구축<br/>
 - 2022.05 ~ 2023.05 : 모 기관 연구과제관리시스템 구축(As a team member),<br/> 
