@@ -41,25 +41,25 @@
 - Deep learning model 고도화 작업<br/>
 <h2>🤝 What I've Done 🤝</h2>
 <h3>2024</h3>
-<h4>공공기관 RPMS 시스템 구축(As a project leader)</h4>
+<h5>공공기관 RPMS 시스템 구축(As a project leader)</h5>
 - 2023.12 ~ 2024.01 : 모 기관 연구과제관리시스템 구축(As a project leader)<br/>
-<b>사내 솔루션 CSAP 인증 작업(As a team member)</b><br/>
-<b>공공기관 RPMS 시스템 유지보수</b><br/>
-<b>공공기관 전자연구노트(ELN) 시스템 유지보수</b><br/>
+<h5>사내 솔루션 CSAP 인증 작업(As a team member)</h5>
+<h5>공공기관 RPMS 시스템 유지보수</h5>
+<h5>공공기관 전자연구노트(ELN) 시스템 유지보수</h5>
 <h3>2023</h3>
-<h4>공공기관 RPMS 시스템 구축</h4>
+<h5>공공기관 RPMS 시스템 구축</h5>
 - 2022.05 ~ 2023.05 : 모 기관 연구과제관리시스템 구축(As a team member),<br/> 
                            DB Migration from ORACLE to PostgreSQL<br/>
 - 2023.06 ~ 2023.11 : 모 기관 연구과제관리시스템 구축(As a project leader)<br/>
 <h3>2022</h3>
-<h4>입사 후 교육 받기</h4>
+<h5>입사 후 교육 받기</h5>
 - 2022.02 ~ 2022.04 : 첫 회사 입사 후 교육 받으며 여러 프로젝트에 깍두기 참여<br/>
-<b>공공기관 RPMS 시스템 구축</b><br/>
+<h5>공공기관 RPMS 시스템 구축</h5>
 - 2022.05 ~ 2023.05 : 모 기관 연구과제관리시스템 구축(As a team member),<br/> 
                            DB Migration from ORACLE to PostgreSQL<br/>
 
 <h3>2021 하반기</h3>
-<h4>개발 공부 시기</h4>
+<h5>개발 공부 시기</h5>
 <a href="https://github.com/noasued/URAVEL">🧳 URAVEL : 서울시 여행지 추천 웹사이트</a><br/>
 <a href="https://github.com/noasued/EatDa">😋 EatDa : 간단 레시피 추천 웹사이트</a>
 </div>
