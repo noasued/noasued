@@ -36,11 +36,11 @@
 
 <br>
 <h2>🤝 What am I Doing Currently (2025) 🤝</h2>
-<ol>
+<ul>
   <li>RAG시스템 개발(with llama3.1)</li>
   <li>RAG 성능 평가 개발</li>
   <li>Deep learning model 고도화 작업</li>
-</ol>
+</ul>
 
 <h2>🤝 What I've Done 🤝</h2>
 <h3>2024</h3>
