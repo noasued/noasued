@@ -36,9 +36,12 @@
 
 <br>
 <h2>🤝 What am I Doing Currently (2025) 🤝</h2>
-- RAG시스템 개발(with llama3.1)<br/>
-- RAG 성능 평가 개발<br/>
-- Deep learning model 고도화 작업<br/>
+<ol>
+  <li>RAG시스템 개발(with llama3.1)</li>
+  <li>RAG 성능 평가 개발</li>
+  <li>Deep learning model 고도화 작업</li>
+</ol>
+
 <h2>🤝 What I've Done 🤝</h2>
 <h3>2024</h3>
 <h5>공공기관 RPMS 시스템 구축(As a project leader)</h5>
