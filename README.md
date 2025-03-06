@@ -13,15 +13,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/JSP-F86001?style=flat-square&logo=JSP&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/React-439BB3?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ajax-0094F5?style=flat-square&logo=Ajax&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux&logoColor=white"/>
 <br/>
