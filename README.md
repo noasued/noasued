@@ -28,7 +28,7 @@
 <br>
 <h2>🤝 What am I Doing Currently (2025) 🤝</h2>
 <div>
-  <b>RAG시스템 개발(with llama3.1)</b></br>
+  <b>RAG시스템 개발(with gemma3)</b></br>
   <b>RAG 성능 평가 개발</b></br>
   <b>Deep learning model 고도화 작업</b></br>
 </div>
