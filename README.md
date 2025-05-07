@@ -26,18 +26,19 @@
 <a href="https://www.threads.net/@noa.dev"><img src="https://img.shields.io/badge/noa.dev-000000?style=flat-square&logo=Threads&logoColor=white"/></a>
 <a href="https://www.instagram.com/noa.dev"><img src="https://img.shields.io/badge/noa.dev-8134AF?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>
-<h2>🤝 What am I Doing Currently (2025) 🤝</h2>
+<h2>🤝 What I'm Doing Currently (2025) 🤝</h2>
 <div>
+  <b>Deep learning model 고도화 작업 (On going as a project leader)</b></br>
   <b>RAG시스템 개발(with gemma3)</b></br>
-  <b>RAG 성능 평가 개발</b></br>
-  <b>Deep learning model 고도화 작업</b></br>
+  <b>RAG 성능 평가 개발</b>
 </div>
 <h2>🤝 What I've Done 🤝</h2>
 <h2>2024</h2>
 <div>
-  <b>공공기관 RPMS 시스템 유지보수</b></br>
-  <b>공공기관 전자연구노트(ELN) 시스템 유지보수</b></br>
-  <b>사내 솔루션 CSAP 인증 작업(As a team member)</b></br>
+  <b>전자연구노트(ELN) 시스템 및 RPMS 시스템 유지보수</b></br>
+  <p>- 2024.06 ~ 2024.12 : 모 기관 전자연구노트시스템 및 연구과제관리시스템 유지보수</p></br>
+  <b>CSAP 인증 작업(As a team member)</b></br>
+  <p>- 2023.12 ~ 2024.01 : 사내 솔루션 CSAP 인증 작업</p></br>
   <b>공공기관 RPMS 시스템 구축(As a project leader)</b></br>
   <p>- 2023.12 ~ 2024.01 : 모 기관 연구과제관리시스템 구축</p>
 </div>
