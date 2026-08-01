@@ -1,6 +1,4 @@
 ## 🌱 Overall Activity
-### Personal
-![Personal Activity](https://github-readme-activity-graph.vercel.app/graph?username=noasued&theme=github-compact)
 ### Company
 ![Company Activity](https://github-readme-activity-graph.vercel.app/graph?username=noasouth&theme=github-compact)
 
