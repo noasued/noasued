@@ -4,7 +4,7 @@
 
 ## 🛠 Tech Stack 🛠
 ### Currently
-<img src="https://img.shields.io/badge/React-439BB3?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-439BB3?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 ### Have Experiences
 <img src="https://img.shields.io/badge/Python-008B8B?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux&logoColor=white"/>
@@ -14,10 +14,14 @@
 - 🉑Chinese(普通話)
 ## 🌳 Contact Noa
 <a href="mailto:nnoadev@gmail.com"><img src="https://img.shields.io/badge/nnoadev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:noa@cartanova.ai"><img src="https://img.shields.io/badge/noa@cartanova.ai-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.threads.net/@noa.dev"><img src="https://img.shields.io/badge/noa.dev-000000?style=flat-square&logo=Threads&logoColor=white"/></a>
 <a href="https://www.instagram.com/noa.dev"><img src="https://img.shields.io/badge/noa.dev-8134AF?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-## 🤝 What I've Experienced (2025)
+## 🤝 What I've Experienced and Experiencing (2026)
+### 2026
+- TypeScript Framework **[Sonamu](https://sonamu.cartanova.ai/ko/getting-started/introduction)** 개선 작업
+- 이런 저런 프로젝트 진행중
 ### 2025
 - Deep learning model 고도화 작업 (On going as a project leader)
 - RAG시스템 개발(with gemma3)
