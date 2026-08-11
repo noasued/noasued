@@ -20,7 +20,7 @@
 
 ## 🤝 What I've Experienced and Experiencing (2026)
 ### 2026
-- TypeScript Framework **[Sonamu](https://sonamu.cartanova.ai/ko/getting-started/introduction)** 개선 작업
+- TypeScript Based Full Stack Framework **[Sonamu](https://sonamu.cartanova.ai/ko/getting-started/introduction)** 개선 작업
 - 이런 저런 프로젝트 진행중
 ### 2025
 - Deep learning model 고도화 작업 (On going as a project leader)
